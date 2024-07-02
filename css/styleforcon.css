@@ -1,0 +1,57 @@
+div {
+    font-family: 'PT Serif';
+    margin: 0 auto; 
+    width: fit-content; 
+    text-align: center;
+}
+
+body {
+    background-color: rgb(198,191,168);
+}
+
+h1 {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif';
+    margin: 40px auto; 
+    width: fit-content; 
+    text-align: center; 
+}
+
+.img1 {
+    float: left;
+    margin-top: 40px;
+    margin-left: 50px; 
+}
+
+.img2 {
+    float: left;
+    margin-left: 50px;
+    margin-top: 0;
+}
+
+.img3 {
+    float: left;
+    margin-left: -200px;
+    margin-top: 250px;
+}
+
+h2 {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif';
+    margin-top: 50px;
+    margin-left: 840px;
+}
+
+p {
+    margin-left: 550px;
+    border-style: solid ;
+    padding: 10px;
+}
+
+.ig {
+    color: rgb(73, 85, 72);
+    font-family: 'PT Serif';
+    margin-left: 60px; 
+    width: fit-content; 
+    text-align: center; 
+}
